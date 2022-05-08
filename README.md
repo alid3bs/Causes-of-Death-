@@ -17,8 +17,8 @@ here in our project we will focus on the most dangreuos causes of death which ar
 ###### After cloning from the remote repository to your local repository you can run the project using
 ###### Jupyter notebook or Colab
 ###### When you run the project you will be here, so lets know what are those numbers
-![This is an image](/assets/first page.PNG)
-![This is an image](/assets/second page.PNG)
+![This is an image](/assets/first_page.PNG)
+![This is an image](/assets/second_page.PNG)
 
 -1- The current country which we analyse its data
 -2- The current disease which we analyse its data for a given year(highest disease is default) 
