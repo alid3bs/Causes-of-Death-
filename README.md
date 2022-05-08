@@ -8,6 +8,6 @@ here in our project we will focus on the most dangreuos causes of death which ar
 - Diseases distribution around the world 
 - Diseases behind deaths for each country 
 - Worst diseases for each country 
-- Changes of Diseases rate for each year from 1990 --> 2019
+- Changes of Diseases rate for each year from 1990 --> 2019 
 
 ![This is an image](/assets/Cause_of_deaths.png)
