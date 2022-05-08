@@ -2,7 +2,7 @@
 
 ### Project Description
 We know that there are many reasons behind people's DEATHS around the world,
-here in our project we will focus on the most dangreuos cause of death which is Diseases.
+here in our project we will focus on the most dangreuos causes of death which are Diseases.
 
 ##### Our analysis will answer the following questions
 - Diseases distribution around the world 
