@@ -17,20 +17,23 @@ here in our project we will focus on the most dangreuos causes of death which ar
 ###### After cloning from the remote repository to your local repository you can run the project using
 ###### Jupyter notebook or Colab
 ###### When you run the project you will be here, so lets know what are those numbers
-![This is an image](/assets/first page.PNG)
-![This is an image](/assets/second page.PNG)
 
--1- The current country which we analyse its data
--2- The current disease which we analyse its data for a given year(highest disease is default) 
--3- Total number of deaths for a given year
--4- Slider to change years
--5- Dropdown to select a country
--6- Bar graph to describe the number of deaths per disease
--7- Pie graph to describe the proportion of deaths for each disease
--8- Dropdown to select a disease
--9- Map to describe disease distributions for each country
--10- Here you can go to get more inforamtion about that disease
+![This is an image](/assets/first_page.png)
 
+
+![This is an image](/assets/second_page.PNG)
+
+- 1- The current country which we analyse its data
+- 2- The current disease which we analyse its data for a given year(highest disease is default) 
+- 3- Total number of deaths for a given year
+- 4- Slider to change years
+- 5- Dropdown to select a country
+- 6- Bar graph to describe the number of deaths per disease
+- 7- Pie graph to describe the proportion of deaths for each disease
+- 8- Dropdown to select a disease
+- 9- Map to describe disease distributions for each country
+- 10- Here you can go to get more inforamtion about that disease
+ 
 
 ### Contuct Us
 - https://www.linkedin.com/in/heba-abdelhakam-51278b186/
