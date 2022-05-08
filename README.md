@@ -30,7 +30,7 @@ here in our project we will focus on the most dangreuos causes of death which ar
 -8- Dropdown to select a disease
 -9- Map to describe disease distributions for each country
 -10- Here you can go to get more inforamtion about that disease
-
+ 
 
 ### Contuct Us
 - https://www.linkedin.com/in/heba-abdelhakam-51278b186/
